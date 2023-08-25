@@ -1,0 +1,11 @@
+{
+  //Name this congiguration
+  "name": "Codespace for Skills!",
+  "customizations": {
+       "vscode": {
+            "extensions": [
+                 "GitHub.copilot"
+            ]
+       }
+  }
+}
